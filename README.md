@@ -1,1 +1,1 @@
-https://github.com/Truffless/rsschool-cv/blob/gh-pages/cv.md
+https://truffless.github.io/rsschool-cv/cv
