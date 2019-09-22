@@ -6,7 +6,7 @@
 - Mail: murmurmeow11@gmail.com
 - Telegram: https://t.me/Truffles_mld
 ## Summary
- I do not have experience in Front-End development, but I am ready to learn and improve to achieve my goals and solve my tasks.
+I do not have experience in Front-End development, but I am ready to learn and improve to achieve my goals and solve my tasks.
 ## Skills
 Programing languages: C++, JavaScript, CSS, HTML
 ## Education
